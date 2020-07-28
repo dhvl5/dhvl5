@@ -4,12 +4,13 @@
 
  - :office: Currently creating awesome AR/VR stuff with amazing people at [**The Intellify**](https://theintellify.com/)
  - ⚙️ I daily use: `.cs` , `.shader` , `.xml`
+ - :link: Re-writing my personal website, have a [look](https://www.dhvl5.com/dhvl5-nuxt/) at it
  - :green_heart: Interests: huge Halsey fan, Science & Mathematics, TV Shows & Movies
  - :books: I read a lot
  - :headphones: Also listen a lot
  
 #### Me on web:
- [dhvl5.com](https://www.dhvl5.com/) | [LinkedIn](https://www.linkedin.com/in/dhvl5/) | [Twitter](https://twitter.com/dhvl05)
+ :earth_asia: [dhvl5.com](https://www.dhvl5.com/) | [LinkedIn](https://www.linkedin.com/in/dhvl5/) | [Twitter](https://twitter.com/dhvl05)
 
 <!--
 **dhvl5/dhvl5** is a ✨ _special_ ✨ :earth_asia: repository because its `README.md` (this file) appears on your GitHub profile.
