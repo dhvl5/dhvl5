@@ -1,6 +1,6 @@
 ## Hello peeps!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  
- <img width = "34%" align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" />
+ <img width = "34%" align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" />
 
 #### I'm Dhaval, I am a Game Developer based in India.
 
