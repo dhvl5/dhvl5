@@ -9,9 +9,9 @@
  - :books: I read a lot
  - :headphones: Also listen a lot
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvl5&layout=compact&hide=html" alt="dhvl5" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvl5&layout=compact&hide=html" alt="dhvl5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvl5&show_icons=true" alt="dhvl5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvl5&show_icons=true" alt="dhvl5" /></p> -->
  
 <h3 align="center">
  <a href="https://www.dhvl5.com/">dhvl5.com</a>
