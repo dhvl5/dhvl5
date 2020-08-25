@@ -1,13 +1,14 @@
-## Hello peeps!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
- 
- <img width = "34%" align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" />
+<h1 align="center">Hi 👋, I'm Dhaval Prajapati</h1>
+<h3 align="center">a passionate self-made game developer who loves coding and making cool stuff with it.</h3>
 
-#### I'm Dhaval, I am a Game Developer based in India.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhvl5" alt="dhvl5" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvl5&layout=compact&hide=html" alt="dhvl5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvl5&show_icons=true" alt="dhvl5" /></p>
 
  - :office: Currently creating awesome AR/VR stuff with amazing people at [**The Intellify**](https://theintellify.com/)
  - ⚙️ I daily use: `.cs` , `.shader` , `.xml`
- - :link: Re-writing my personal website, have a [look](https://www.dhvl5.com/dhvl5-nuxt/) at it
- - :green_heart: Interests: huge Halsey fan, Science & Mathematics, TV Shows & Movies
+ - :green_heart: Interests: huge Halsey fan, Science & Mathematics
  - :books: I read a lot
  - :headphones: Also listen a lot
  
