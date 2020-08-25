@@ -14,7 +14,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvl5&show_icons=true" alt="dhvl5" /></p>
  
 #### Me on web:
- :earth_asia: [dhvl5.com](https://www.dhvl5.com/) | [LinkedIn](https://www.linkedin.com/in/dhvl5/) | [Twitter](https://twitter.com/dhvl05)
+<p align="center">
+ <h3><a href="https://www.dhvl5.com/">dhvl5.com</a></h3>
+</p>
+ 
+<p align="center">
+<a href="https://twitter.com/dhvl05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhvl05" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/dhvl5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhvl5" height="30" width="30" /></a>&nbsp;
+<a href="https://discordapp.com/users/423303543156375553" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="dhvl5" height="30" width="30" /></a>
+</p>
 
 <!--
 **dhvl5/dhvl5** is a ✨ _special_ ✨ :earth_asia: repository because its `README.md` (this file) appears on your GitHub profile.
