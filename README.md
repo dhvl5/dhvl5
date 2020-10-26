@@ -5,7 +5,7 @@
 
  - :office: Currently creating awesome AR/VR stuff with amazing people at [**The Intellify**](https://theintellify.com/)
  - ⚙️ I daily use: `.cs` , `.shader` , `.xml`
- - :green_heart: Interests: huge Halsey fan, Science & Mathematics
+ - :green_heart: Interests: huge Halsey and Dua fan, Science & Mathematics
  - :books: I read a lot
  - :headphones: Also listen a lot
  
