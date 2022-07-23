@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhvl5" alt="dhvl5" /> </p>
 
- - :office: Currently creating awesome AR/VR stuff with amazing people at [**The Intellify**](https://theintellify.com/)
- - ⚙️ I daily use: `.cs` , `.shader` , `.xml`
+ - :office: Currently creating awesome AR/VR stuff with the amazing people at [**The Intellify**](https://theintellify.com/)
+ - ⚙️ I daily use: `.cs` , `.kt`
  - :green_heart: Interests: huge Halsey and Dua fan, Science & Mathematics
  - :books: I read a lot
  - :headphones: Also listen a lot
